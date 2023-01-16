@@ -1,10 +1,10 @@
-# NavegacionApp - React Native 04
+# PelículasApp - React Native 05
 
 ## Descripción del proyecto
 
 ## Capturas de Pantalla
 
-<img src="" alt="" width="200"/>
+<img src="https://user-images.githubusercontent.com/89869980/212592418-79a6adee-4d1c-4820-ac68-e7cc844c4f7d.png" alt="" width="200"/>
 
 ## Instalación
 
