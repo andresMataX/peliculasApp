@@ -2,6 +2,8 @@
 
 ## Descripción del proyecto
 
+Aplicación para consumir la base de datos TheMovieDB para mostrar los próximos estrenos de películas
+
 ## Capturas de Pantalla
 
 <img src="https://user-images.githubusercontent.com/89869980/212592418-79a6adee-4d1c-4820-ac68-e7cc844c4f7d.png" alt="" width="200"/>
@@ -22,7 +24,7 @@ Tener [Node.js](https://nodejs.org/es/download/) instalado.
 npm install
 ```
 
-### Configurar el entorno de ejecucion
+### Configurar el entorno de ejecución
 
 Se puede seguir las instrucciones dependiendo de su SO usando la [guía oficial](https://reactnative.dev/docs/environment-setup).
 
@@ -36,7 +38,7 @@ npm run android
 
 **Subrepositorio de**: [react-native-course](https://github.com/andresMataX/react-native-course)
 <br>
-**Proyecto**:
+**Proyecto**: 05-PeliculasApp
 <br>
 **Curso**: React Native: Aplicaciones nativas para IOS y Android
 <br>
